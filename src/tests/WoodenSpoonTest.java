@@ -12,6 +12,7 @@ public class WoodenSpoonTest {
             System.out.println("Updated second time,  and will commit  to local second time");
             System.out.println("Updated third time,  and will commit  to local third time");
             System.out.println("Update 4, will commit to local 4");
+            System.out.println("Update 4, will commit to local 4  and push 4th time");
 
         }
     }
