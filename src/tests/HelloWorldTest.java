@@ -7,5 +7,7 @@ public class HelloWorldTest {
         System.out.println("One More Salute World");
 
         System.out.println("Third Salute World");
+
+        System.out.println("Commit Salute");
     }
 }
