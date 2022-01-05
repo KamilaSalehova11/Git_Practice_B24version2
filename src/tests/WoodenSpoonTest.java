@@ -8,6 +8,7 @@ public class WoodenSpoonTest {
 
             System.out.println("Wooden Spoon");
             System.out.println("Woody Spoon");
+            System.out.println("Updated project,  now I will  commit to local ");
 
         }
     }
