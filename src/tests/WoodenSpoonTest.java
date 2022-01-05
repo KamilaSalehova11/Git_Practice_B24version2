@@ -16,6 +16,7 @@ public class WoodenSpoonTest {
             System.out.println("Update 5, 5th commit to local and push 5th time");
             System.out.println("Update 6, 6th commit to local and push 6th time");
             System.out.println("Chapter 1");
+            System.out.println("Chapter 2");
         }
     }
 }
