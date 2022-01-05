@@ -23,6 +23,7 @@ public class WoodenSpoonTest {
             System.out.println("Chapter 4 page 3");
             System.out.println("Chapter 4 page 4");
             System.out.println("Chapter 5 page 1");
+            System.out.println("Chapter 5 page 2");
         }
     }
 }
